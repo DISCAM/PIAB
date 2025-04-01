@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Firma.Data.Data.CMS.Aktualnosc>
+
+<div class="container align-content-center">
+    <div class="container text-center">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-12 col-md-6 col-lg-3">
+                    <h2>@item.Tytul</h2>
+                     <p>
+                    @item.Tresc
+                    </p>
+                    <p><button type="button" class="btn btn-primary">tresc</button></p>
+                </div>
+            }
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="~/content/1.png" class="card-img-top" alt="ML">
+                    <div class="card-body">
+                        <h5 class="card-title">Karta 1</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">GO</a>
+                    </div>
+                </div>
+            </div>
+      
+        </div>
+        <hr />
+    </div>
+</div>

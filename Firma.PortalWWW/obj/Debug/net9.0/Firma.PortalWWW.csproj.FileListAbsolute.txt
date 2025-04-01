@@ -324,3 +324,6 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\Firma.PortalWWW.csproj.AssemblyReference.cache
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\Firma.Po.6393D80D.Up2Date
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\net9.0\Firma.Data.dll
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\net9.0\Firma.Data.pdb
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\Firma.PortalWWW.sourcelink.json

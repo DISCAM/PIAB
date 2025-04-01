@@ -326,3 +326,4 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\n
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\Firma.In.D0AF2FDE.Up2Date
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\bin\Debug\net9.0\Firma.Data.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\bin\Debug\net9.0\Firma.Data.pdb
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\Firma.Intranet.sourcelink.json

@@ -1,9 +1,9 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model Firma.Data.Data.CMS.Strona   // jak wysłwialamy jedną strona jak jest kolekcja to IEnumerable
+@{
+    ViewData["Title"] = Model.LinkTytul;
 }
 
-<div class="container align-content-center">
-   <div class="container text-center">
-       dfgdfg
-   </div>
-</div>
+<h2> @Model.TytulStrone </h2>
+<p>
+    @Model.Tresc
+</p>
