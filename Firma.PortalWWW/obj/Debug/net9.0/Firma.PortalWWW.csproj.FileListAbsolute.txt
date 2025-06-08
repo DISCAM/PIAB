@@ -81,12 +81,6 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets\msbuild.build.Firma.PortalWWW.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Firma.PortalWWW.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Firma.PortalWWW.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\Firma.PortalWWW.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\refint\Firma.PortalWWW.dll
@@ -327,3 +321,4 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\net9.0\Firma.Data.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\bin\Debug\net9.0\Firma.Data.pdb
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\Firma.PortalWWW.sourcelink.json
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.PortalWWW\obj\Debug\net9.0\staticwebassets.build.json.cache

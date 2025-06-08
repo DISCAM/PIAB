@@ -81,12 +81,6 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\n
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets\msbuild.Firma.Intranet.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets\msbuild.Firma.Intranet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets\msbuild.build.Firma.Intranet.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Firma.Intranet.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Firma.Intranet.props
-C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\Firma.Intranet.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\refint\Firma.Intranet.dll
@@ -327,3 +321,4 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\n
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\bin\Debug\net9.0\Firma.Data.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\bin\Debug\net9.0\Firma.Data.pdb
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\Firma.Intranet.sourcelink.json
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Intranet\obj\Debug\net9.0\staticwebassets.build.json.cache

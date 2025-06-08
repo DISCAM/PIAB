@@ -10,3 +10,4 @@ C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Data\obj\Debug\net9.
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Data\obj\Debug\net9.0\Firma.Data.pdb
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Data\obj\Debug\net9.0\ref\Firma.Data.dll
 C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Data\obj\Debug\net9.0\Firma.Data.csproj.AssemblyReference.cache
+C:\Users\mczyr\OneDrive - Discam\Dokumenty\PIAB\Firma\Firma.Data\obj\Debug\net9.0\Firma.Data.sourcelink.json
